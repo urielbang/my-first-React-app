@@ -1,0 +1,49 @@
+.headMAin {
+  background-color: #333;
+  width: 100%;
+  height: 40vh;
+  display: flex;
+  justify-content: space-around;
+
+  flex-direction: column;
+}
+.headMAin h1 {
+  color: white;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+.details img {
+  width: 4vw;
+  height: 5vh;
+  border-radius: 100%;
+}
+.details {
+  display: flex;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  align-items: center;
+}
+.name-Date {
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2vw;
+}
+.name-Date p {
+  margin: 0;
+}
+.name-Date span {
+  color: rgba(240, 248, 255, 0.438);
+  font-size: small;
+}
+.mainText span {
+  font-family: "Source Serif Pro", serif;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  margin-bottom: 2rem;
+}
+.mainText {
+  margin-top: 1.5rem;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
